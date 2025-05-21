@@ -1,4 +1,4 @@
-👋 Hi, I’m Steven Barash
+# 👋 Hi, I’m Steven Barash
 
-Solutions Engineer @ Descope
-Based in Brooklyn, NY 🗽🚲
+**Solutions Engineer @ Descope**  
+**Based in Brooklyn, NY 🗽🚲**
